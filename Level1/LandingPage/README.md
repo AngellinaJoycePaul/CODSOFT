@@ -1,6 +1,8 @@
 # Landing Page
 
-This project is part of the CodSoft Web Development Internship.
+## Project Preview
+
+![Landing Page Preview](landingpage-preview.png)
 
 ## Description
 A responsive landing page designed using HTML and CSS. The page includes a navigation bar, hero section, project section, and footer.
