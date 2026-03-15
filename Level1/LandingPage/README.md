@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-![Landing Page Preview](landingpage-preview.png)
+![Landing Page Preview](landingpage-preview.PNG)
 
 ## Description
 A responsive landing page designed using HTML and CSS. The page includes a navigation bar, hero section, project section, and footer.
