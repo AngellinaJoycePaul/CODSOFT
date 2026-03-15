@@ -1,10 +1,28 @@
-# CODSOFT Web Development Internship
+# CodSoft Web Development Internship
 
-This repository contains the projects completed during my Web Development Internship at CodSoft.
+This repository contains the projects I developed during the CodSoft Web Development Internship. The internship focuses on building practical frontend development skills through real-world mini projects.
 
-## Level 1 Tasks
+## Level 1 Projects
+
+The following beginner-level projects were completed as part of Level 1 tasks:
+
 - Landing Page
-- Personal Portfolio Website
+- Personal Portfolio
 - Calculator
 
-  These projects are built using HTML, CSS, and JavaScript as part of the internship learning process.
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Repository Structure
+
+Level1/
+- LandingPage
+- Portfolio
+- Calculator
+
+## Author
+
+Angellina Joyce Paul
