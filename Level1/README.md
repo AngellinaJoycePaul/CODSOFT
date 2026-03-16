@@ -6,7 +6,6 @@ This folder contains the **Level 1 tasks** completed during the **CodSoft Web De
 
 ### Landing Page
 A responsive landing page built using **HTML and CSS** focusing on layout design and responsiveness.
-![Landing Page Preview](LandingPage-preview.PNG)
 
 ### Personal Portfolio
 A portfolio website developed to present my profile, skills, projects, and contact information.
