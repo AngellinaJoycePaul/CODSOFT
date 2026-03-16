@@ -3,10 +3,6 @@
 This repository contains my personal developer portfolio website built using HTML and CSS.  
 It showcases my background, education, certifications, technical skills, and featured projects.
 
-## Live Website
-You can view the portfolio here:  
-https://angellinajoycepaul.github.io/
-
 ## Features
 
 - Clean and responsive portfolio design
