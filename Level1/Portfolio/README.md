@@ -3,6 +3,10 @@
 This repository contains my personal developer portfolio website built using HTML and CSS.  
 It showcases my background, education, certifications, technical skills, and featured projects.
 
+## Preview
+
+![Portfolio Preview](Portfolio.PNG)
+
 ## Features
 
 - Clean and responsive portfolio design
