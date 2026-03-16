@@ -34,3 +34,25 @@ A C-based financial simulation system capable of converting currencies with tran
 A responsive landing page built using HTML and CSS focusing on clean UI design and responsive layout.
 
 ## Project Structure
+portfolio/
+│
+├── index.html
+├── style.css
+├── profile.jpg
+├── Resume.pdf
+├── landingpage-preview.png
+└── README.md
+
+## Contact
+
+Email: angellinajoycepaul@gmail.com  
+
+LinkedIn  
+https://www.linkedin.com/in/angellina-joyce-paul
+
+GitHub  
+https://github.com/AngellinaJoycePaul
+
+---
+
+© 2026 Angellina Joyce Paul
