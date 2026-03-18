@@ -2,7 +2,7 @@
 This repository contains the projects I completed as part of the CodSoft Web Development Internship (Level 1).
 Through this internship, I built real-world frontend projects using HTML, CSS, and JavaScript, focusing on UI design, responsiveness, and functionality.
 
-## 🚀 Projects
+## Projects
 
 ### 1. Landing Page
 A modern responsive landing page built using HTML and CSS.
@@ -13,7 +13,7 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 ### 3. Scientific Calculator
 A functional calculator with scientific operations like trigonometric functions, square, square root, and calculation history.
 
-## 💡 Skills Gained
+## Skills Gained
 
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
@@ -21,8 +21,9 @@ A functional calculator with scientific operations like trigonometric functions,
 - UI/UX Design Basics
 - Git & GitHub
 
-## 📌 Author
+## Author
 
 Angellina Joyce Paul
+An Aspiring Full-Stack Developer
 
 This repository reflects my learning journey and hands-on practice during the internship.
