@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(135deg, #e0f2fe, #f8fafc);
+    color: #1e293b;
+    min-height: 100vh;
+}
+
+.page-header {
+    text-align: center;
+    margin: 12px 0 2px;
+    color: #1d4ed8;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.page-footer {
+    text-align: center;
+    padding: 12px 0 16px;
+    color: #334155;
+    font-weight: 600;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 30px;
+}
+
+/* Calculator */
+.calculator {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 16px;
+    width: 340px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+#display {
+    width: 100%;
+    aspect-ratio: 8 / 1;
+    min-height: 56px;
+    font-size: 1.65rem;
+    text-align: right;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: #f1f5f9;
+    margin: 0 0 14px;
+    box-sizing: border-box;
+}
+
+/* Buttons */
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+button {
+    padding: 14px;
+    border-radius: 10px;
+    border: none;
+    background: #e2e8f0;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+/* Types */
+.op {
+    background: #fb923c;
+    color: white;
+}
+
+.equal {
+    background: #22c55e;
+    color: white;
+    grid-column: span 2;
+}
+
+.func {
+    background: #60a5fa;
+    color: white;
+}
+
+/* Hover */
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 10px rgba(255,255,255,0.9), 0 0 20px rgba(255,255,255,0.35), 0 0 10px currentColor, 0 4px 14px rgba(0,0,0,0.2);
+    filter: brightness(1.08);
+}
+
+/* Side panel */
+.side-panel {
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.history, .info {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 14px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.history h3, .info h3 {
+    margin: 0 0 10px;
+    color: #2563eb;
+}
+
+/* History styling */
+#history {
+    max-height: 140px;
+    overflow-y: auto;
+    font-size: 0.9rem;
+}
+
+#history div {
+    padding: 5px 0;
+    border-bottom: 1px solid #e2e8f0;
+    color: #475569;
+}
+
+/* Info */
+.info ul {
+    padding-left: 18px;
+}
+
+.info li {
+    margin-bottom: 6px;
+    color: #475569;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .calculator {
+        width: 100%;
+    }
+
+    .side-panel {
+        width: 100%;
+    }
+}

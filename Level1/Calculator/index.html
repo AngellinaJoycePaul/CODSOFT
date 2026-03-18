@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scientific Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="page-header">
+    <h1>Calculator</h1>
+</header>
+
+<div class="container">
+
+    <!-- Calculator -->
+    <div class="calculator">
+        <input type="text" id="display" readonly>
+
+        <div class="buttons">
+            <button class="op" onclick="clearDisplay()">AC</button>
+            <button onclick="press('(')">(</button>
+            <button onclick="press(')')">)</button>
+            <button class="op" onclick="press('/')">÷</button>
+
+            <button onclick="press('7')">7</button>
+            <button onclick="press('8')">8</button>
+            <button onclick="press('9')">9</button>
+            <button class="op" onclick="press('*')">×</button>
+
+            <button onclick="press('4')">4</button>
+            <button onclick="press('5')">5</button>
+            <button onclick="press('6')">6</button>
+            <button class="op" onclick="press('-')">−</button>
+
+            <button onclick="press('1')">1</button>
+            <button onclick="press('2')">2</button>
+            <button onclick="press('3')">3</button>
+            <button class="op" onclick="press('+')">+</button>
+
+            <button onclick="press('0')">0</button>
+            <button onclick="press('.')">.</button>
+            <button class="equal" onclick="calculate()">=</button>
+
+            <button class="func" onclick="square()">x²</button>
+            <button class="func" onclick="sqrt()">√</button>
+            <button class="func" onclick="sin()">sin</button>
+            <button class="func" onclick="cos()">cos</button>
+            <button class="func" onclick="tan()">tan</button>
+            <button class="func" onclick="log()">log</button>
+        </div>
+    </div>
+
+    <!-- Side Panel -->
+    <div class="side-panel">
+        <div class="history">
+            <h3>History</h3>
+            <div id="history"></div>
+        </div>
+
+        <div class="info">
+            <h3>How It Works</h3>
+            <ul>
+                <li>Enter number → then apply function (e.g., 9 √)</li>
+                <li>Supports +, −, ×, ÷ operations</li>
+                <li>Trigonometric functions use radians</li>
+                <li>Use () for complex expressions</li>
+                <li>Press AC to clear</li>
+                <li>Press = to calculate</li>
+                <li>You can also use keyboard input</li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<footer class="page-footer">Angellina Joyce Paul</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
