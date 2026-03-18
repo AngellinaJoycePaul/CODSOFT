@@ -1,40 +1,28 @@
-# CodSoft Web Development Internship
+# CodSoft Web Development Internship – Level 1
+This repository contains the projects I completed as part of the CodSoft Web Development Internship (Level 1).
+Through this internship, I built real-world frontend projects using HTML, CSS, and JavaScript, focusing on UI design, responsiveness, and functionality.
 
-This repository contains the projects I developed during the **CodSoft Web Development Internship**.  
-The internship focuses on strengthening frontend development skills by building practical web projects.
-
-## Level 1 Projects
-
-The following beginner-level projects were completed as part of **Level 1 tasks**:
+## 🚀 Projects
 
 ### 1. Landing Page
-A responsive landing page designed using HTML and CSS to practice layout design and UI structuring.
+A modern responsive landing page built using HTML and CSS.
 
 ### 2. Personal Portfolio
-A personal portfolio website created to showcase my profile, education, skills, certifications, and projects.
+A personal portfolio website showcasing my skills, projects, and contact information.
 
-### 3. Calculator
-A functional calculator application built using HTML, CSS, and JavaScript with basic arithmetic operations.
+### 3. Scientific Calculator
+A functional calculator with scientific operations like trigonometric functions, square, square root, and calculation history.
 
-## Technologies Used
+## 💡 Skills Gained
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (DOM Manipulation, Events)
+- UI/UX Design Basics
+- Git & GitHub
 
-## Repository Structure
-CodSoft-Web-Development/
-│
-├── Level1
-│ ├── LandingPage
-│ ├── Portfolio
-│ └── Calculator
-│
-└── README.md
+## 📌 Author
 
-## Author
+Angellina Joyce Paul
 
-**Angellina Joyce Paul**
-
-B.Tech Information Technology  
-Aspiring Full-Stack Developer
+This repository reflects my learning journey and hands-on practice during the internship.
