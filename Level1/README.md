@@ -1,16 +1,18 @@
-# Level 1 Projects
+# Level 1 – Web Development Internship
 
-This folder contains the **Level 1 tasks** completed during the **CodSoft Web Development Internship**.
+This level focuses on building fundamental frontend projects using HTML, CSS, and basic JavaScript.
 
-## Projects Included
+## Tasks Completed
 
-### Landing Page
-A responsive landing page built using **HTML and CSS** focusing on layout design and responsiveness.
+✔ Landing Page  
+✔ Personal Portfolio  
+✔ Scientific Calculator  
 
-### Personal Portfolio
-A portfolio website developed to present my profile, skills, projects, and contact information.
+Each project helped improve my understanding of layout design, styling, and interactive functionality.
 
-### Calculator
-A simple calculator application built using **HTML, CSS, and JavaScript** that performs basic arithmetic operations.
+## Learning Outcome
 
-Each project is organized in its own folder for clarity and easy navigation.
+- Built responsive layouts
+- Improved UI design sense
+- Learned JavaScript basics
+- Understood real project structure
